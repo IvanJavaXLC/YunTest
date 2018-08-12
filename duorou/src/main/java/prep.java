@@ -3,5 +3,6 @@ public class prep {
         System.out.println("准备种子和土壤");
         System.out.println("购买必需物品");
         System.out.println("浇水和施肥");
+        System.out.println("购买杀虫药");
     }
 }
